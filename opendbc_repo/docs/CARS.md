@@ -192,6 +192,7 @@
 |Kia|Optima Hybrid 2017|Advanced Smart Cruise Control|[Dashcam mode](#dashcam)|
 |Kia|Optima Hybrid 2019|Smart Cruise Control (SCC)|[Upstream](#upstream)|
 |Kia|Seltos 2021|Smart Cruise Control (SCC)|[Upstream](#upstream)|
+|Kia|Seltos 2024|Smart Cruise Control (SCC)|[Upstream](#upstream)|
 |Kia|Sorento 2018|Advanced Smart Cruise Control & LKAS|[Upstream](#upstream)|
 |Kia|Sorento 2019|Smart Cruise Control (SCC)|[Upstream](#upstream)|
 |Kia|Sorento 2021-23|Smart Cruise Control (SCC)|[Upstream](#upstream)|
